@@ -1,4 +1,3 @@
-
 setTimeout(() => {
 
   process.stdout.write('\r|  ');
